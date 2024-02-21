@@ -6,5 +6,8 @@
 ![Help](img/img2.png)
 
 # Requirements
+```
 Python 3.X, DearPyGUI
-
+```
+# Usage
+Open a folder, select the desired videos to compress, press execute ! 
